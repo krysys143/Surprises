@@ -188,10 +188,12 @@ body {
   background-color: rgba(255,255,255,0.4);
 }
 .balloon1 { background-color: #D4AF37; left: 15%; animation-duration: 12s; animation-delay: 1s; }
+.balloon1 { background-color: #d437c9; left: 20%; animation-duration: 12s; animation-delay: 2s; }
 .balloon2 { background-color: #C0C0C0; left: 35%; animation-duration: 15s; animation-delay: 3s; }
-.balloon3 { background-color: #FFB6C1; left: 55%; animation-duration: 13s; animation-delay: 0s; }
+.balloon3 { background-color: #FFB6C1; left: 55%; animation-duration: 13s; animation-delay: 4s; }
 .balloon4 { background-color: #87CEEB; left: 75%; animation-duration: 16s; animation-delay: 2s; }
 .balloon5 { background-color: #F5F5DC; left: 85%; animation-duration: 14s; animation-delay: 5s; }
+.balloon5 { background-color: #dfdcf5; left: 80%; animation-duration: 14s; animation-delay: 4s; }
 
 @keyframes floatUp {
   0% { transform: translateY(0) rotate(-3deg); }
