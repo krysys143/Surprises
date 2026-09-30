@@ -216,4 +216,5 @@ body {
 .candle {
   cursor: pointer;
   z-index: 100;
+  pointer-events: auto;
 }
